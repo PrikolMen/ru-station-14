@@ -1,33 +1,33 @@
 <Document>
-  # Slime People
+  # Слаймолюды
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  They breathe nitrogen instead of oxygen, which is abundant in the station air, but harder to find compressed into gas tanks. They take significant damage if they are sprayed or splashed with water, but can
-  (and like other species, need to) drink it safely to stay hydrated.
-  They exhale nitrous oxide and are unaffected by it.
-  Their body can process 6 reagents at the same time instead of just 2.
+  Они дышат азотом, а не кислородом, которого много в воздухе станции, но который труднее найти в сжатом виде в газовых баллонах. Они получают значительные повреждения, если на них брызнет вода, но могут
+  (как и другие виды) безопасно пить ее, чтобы выжить.
+  Они выдыхают закись азота и не подвержены ее воздействию.
+  Их организм может одновременно перерабатывать 6 реагентов, а не 2.
 
-  Slimepeople can morph into a [bold]"geras"[/bold] (an archaic slimefolk term), which is a smaller slime form that can [bold]pass through grilles[/bold],
-  but forces them to drop their inventory and held items. It's handy for a quick getaway. A geras is small enough to pick up (with two hands)
-  and fits in a duffelbag.
+  Слаймолюды могут превращаться в [bold]«герас»[/bold] (архаичный термин слизефолков), который представляет собой меньшую форму слизи, способную [bold]проходить сквозь решетки[/bold],
+  но не позволяет им использовать инвентарь или удерживать предметы. Это удобно для побега. Герас достаточно мал, чтобы его можно было поднять (двумя руками)
+  и может быть помещён в сумку.
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimesGeras" Caption="A typical geras."/>
   </Box>
 
-  Slimepeople have an [bold]internal 2x2 storage inventory[/bold] inside of their slime membrane. Anyone can see what's inside and take it out of you without asking,
-  so be careful. They [bold]don't drop their internal storage when they morph into a geras, however![/bold]
+  У слаймолюдов есть [bold]внутреннее хранилище 2x2[/bold] внутри их слизистой мембраны. Любой может увидеть, что там находится, и взять это,
+  так что будьте осторожны. Однако они [bold]не теряют внутреннее хранилище, когда превращаются в гераса![/bold]
 
-  Slimepeople have slight accelerated regeneration compared to other humanoids. They're also capable of hardening their fists, and as such have stronger punches,
-  although they punch a little slower.
+  По сравнению с другими гуманоидами слаймолюды обладают незначительным ускорением регенерации. Они также способны усиливать свои кулаки и, как следствие, наносить более сильные удары,
+  хотя бьют они немного медленнее.
 
-  Their slime "blood" can not be regenerated from Iron. Slime Blood is technically a source of
-  moderately filling food for other species, although drinking the blood of your coworkers is usually frowned upon.
-  They suffocate 80% slower, but take pressure damage 9% faster. This makes them by far the species most capable to survive in hard vacuum. For a while.
+  Их слизевая «кровь» не может быть восстановлена из железа. Кровь слизи технически является источником
+  умеренной пищи для других видов, хотя пить кровь своих сослуживцев обычно не одобряется.
+  Они задыхаются на 80% медленнее, но получают урон от давления на 9% быстрее. Это делает их наиболее способными к выживанию в условиях вакуума. На некоторое время.
 
-  They take [color=#1e90ff]80% less Cellular damage, 40% less Blunt damage and 20% less Poison damage[/color], but [color=#ffa500]50% more Cold damage, 20% more Slash damage and 20% more Piercing damage[/color].
+  Они получают [color=#1e90ff]на 80% меньше клеточного урона, на 40% меньше прямого урона и на 20% меньше урона от яда[/color], но [color=#ffa500]на 50% больше урона от холода, на 20% больше режущего урона и на 20% больше проникающего урона[/color].
 
 </Document>
