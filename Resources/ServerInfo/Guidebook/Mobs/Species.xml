@@ -1,7 +1,7 @@
 <Document>
-  # Species
+  # Виды
 
-  Nanotrasen employs a variety of sapient species.
+  В Nanotrasen работают самые разные виды разумных существ.
 
   <Box>
   <GuideEntityEmbed Entity="MobArachnid" Caption="Arachnid"/>
