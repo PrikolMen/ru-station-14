@@ -26,13 +26,14 @@
   - type: Sprite
     sprite: Structures/Power/Generation/Singularity/emitter.rsi
     layers:
-    - state: emitter
+    - state: emitter2
     - state: beam
       shader: unshaded
       visible: false
       map: ["enum.EmitterVisualLayers.Lights"]
-    - state: unlocked
+    - state: locked
       shader: unshaded
+      visible: false
       map: ["enum.LockVisualLayers.Lock"]
   - type: Emitter
   - type: Gun
