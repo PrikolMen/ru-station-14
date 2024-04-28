@@ -18851,7 +18851,7 @@ entities:
       linkedPorts:
         722:
         - CloningPodSender: CloningPodReceiver
-- proto: ComputerComms
+- proto: CentcomComputerComms
   entities:
   - uid: 652
     components:
